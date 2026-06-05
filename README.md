@@ -14,6 +14,14 @@ You can just look at these nice icons:
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+---
+
 ### Links & Source
 *   **Website:** [teampwr.dev](https://teampwr.dev/)
 *   **Website Source Code:** [github.com/pwR9401/teampwR.dev](https://github.com/pwR9401/teampwR.dev)
