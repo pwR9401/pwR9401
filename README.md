@@ -10,7 +10,7 @@ yea aint nobody reading allat
 
 You can just look at these nice icons:
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,css,discord,bots,electron,firebase,gamemakerstudio,github,gmail,gradle,godot,html,js,linux,lua,md,maven,netlify,nginx,nodejs,npm,powershell,py,robloxstudio,svg,tailwind,ubuntu,unity,vscode,windows)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=cloudflare,css,discord,bots,electron,firebase,gamemakerstudio,github,gmail,gradle,godot,html,js,linux,lua,md,maven,netlify,nginx,nodejs,npm,powershell,py,robloxstudio,svg,tailwind,ubuntu,unity,vscode,windows)](#)
 
 ---
 
